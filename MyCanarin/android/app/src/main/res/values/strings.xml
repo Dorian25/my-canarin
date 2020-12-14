@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyCanarin</string>
+    <string name="account_type">com.mycanarin.account</string>
+    <string name="content_authority">com.mycanarin.authority</string>
+</resources>
